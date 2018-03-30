@@ -1,4 +1,9 @@
 <?php 
+/*
+** ### Controll Panel of New Order ###
+** Copyright Adam Borucki 2018
+** Published on MIT License
+*/
 	/*
 	
 	$_GET - autorization, verify, crypto (in planning, with JS implementations)
